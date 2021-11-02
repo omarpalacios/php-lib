@@ -1,8 +1,6 @@
 <h1 align="center">PHP-lib</h1>
 
-<hr>
-
-<p align="center">Librería con código PHP reutilizable.</p>
+<p>Librería con código PHP reutilizable.</p>
 
 <hr>
 

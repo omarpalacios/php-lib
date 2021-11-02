@@ -1,0 +1,23 @@
+body {
+  color: #333;
+  background: #fff2e7;
+}
+
+a, a:visited {
+  color: #4183c4;
+  text-decoration: none;
+}
+
+a:hover, a:focus {
+  color: #265079;
+  text-decoration: none;
+}
+
+a:active {
+  color: #2f98ad;
+}
+
+h1 {
+  font-size: 32px;
+  font-size: 2rem;
+}
