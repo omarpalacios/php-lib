@@ -1,0 +1,26 @@
+{
+  "name": "php-lib",
+  "version": "1.0.0",
+  "title": "php-lib",
+  "description": "Librería con código PHP reutilizable",
+  "main": "general_lib.php",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/omarpalacios/php-lib.git"
+  },
+  "keywords": [
+    "php",
+    "lib",
+    "library"
+  ],
+  "author": "Omar Palacios",
+  "license": "MIT",
+  "dependencies": {
+    "jquery": ">=3.3.1"
+  },
+  "devDependencies": {},
+  "bugs": {
+    "url": "https://github.com/omarpalacios/php-lib/issues"
+  },
+  "homepage": "https://github.com/omarpalacios/php-lib#readme"
+}
