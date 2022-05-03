@@ -4,6 +4,6 @@
 
 <hr>
 
-Copyright © 2021 Omar Palacios (omarpalacios)
+Copyright © 2022 Omar Palacios (omarpalacios)
 
 Licensed under MIT License: http://opensource.org/licenses/mit-license.php
