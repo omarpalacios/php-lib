@@ -9,7 +9,7 @@
 	//const TESTCHANGES=FALSE;
 	
 	const THEMECOLOR="FFF2E7";//without #
-	const COMPANY="Company";//without #
+	const COMPANY="Company";
 	
 	const ENCOD="UTF-8";
 	
